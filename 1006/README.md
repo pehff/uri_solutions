@@ -12,8 +12,8 @@ O arquivo de entrada contém 3 valores com uma casa decimal, de dupla precisão 
 Imprima a variável **MEDIA** conforme exemplo abaixo, com 1 dígito após o ponto decimal e com um espaço em branco antes e depois da igualdade. Assim como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 
 
-| Exemplos de Entrada 	| Exemplos de Saída     |
-|:-------------------:	|:-----------------:    |
-|   5.0 - 6.0 - 7.0     |  MEDIA = 6.3          |
-|   5.0 - 10.0 - 10.0   |  MEDIA = 9.0          |
-|  10.0 - 10.0 - 5.0    |  MEDIA = 7.5          |
+| Exemplos de Entrada 	      | Exemplos de Saída     |
+|:-------------------:	      |:-----------------:    |
+|   5.0 <br>6.0  <br>7.0     |  MEDIA = 6.3          |
+|   5.0 <br>10.0 <br>10.0   |  MEDIA = 9.0          |
+|  10.0 <br>10.0 <br>5.0    |  MEDIA = 7.5          |

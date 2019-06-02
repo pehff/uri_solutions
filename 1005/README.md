@@ -14,6 +14,6 @@ Calcule e imprima a variável MEDIA conforme exemplo abaixo, com 5 dígitos apó
 
 | Exemplos de Entrada 	| Exemplos de Saída     |
 |:-------------------:	|:-----------------:    |
-|       5.0 7.1       	|  MEDIA = 6.43182      |
-|       0.0 7.1       	|  MEDIA = 4.84091      |
-|      10.0 10.0      	|       X = 8           |
+|       5.0 <br>7.1     |  MEDIA = 6.43182      |
+|       0.0 <br>7.1     |  MEDIA = 4.84091      |
+|      10.0 <br>10.0    |       X = 8           |

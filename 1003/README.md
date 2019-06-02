@@ -15,6 +15,6 @@ Imprima a variável SOMA com todas as letras maiúsculas, com um espaço em bran
 
 | Exemplos de Entrada | Exemplos de Saída |
 |:-------------------:|:-----------------:|
-|       30   10       |     SOMA =  40    |
-|      -30   10       |     SOMA = -20    |
-|        0    0       |     SOMA =   0    | 
+|       30 <br>10     |     SOMA =  40    |
+|      -30 <br>10     |     SOMA = -20    |
+|        0 <br>0      |     SOMA =   0    | 

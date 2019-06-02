@@ -15,6 +15,6 @@ Imprima a mensagem "X = " (letra X maiúscula) seguido pelo valor da variável *
 
 | Exemplos de Entrada | Exemplos de Saída |
 |:-------------------:|:-----------------:|
-|         10 9        |       X = 19      |
-|        -10 4        |       X = -6      |
-|        15 -7        |       X = 8       | 
+|         10 <br>9        |       X = 19      |
+|        -10 <br>4        |       X = -6      |
+|        15 <br>-7        |       X = 8       | 

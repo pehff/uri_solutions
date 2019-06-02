@@ -14,6 +14,6 @@ Imprima a variável **PROD** conforme exemplo abaixo, com um espaço em branco a
 
 | Exemplos de Entrada | Exemplos de Saída |
 |:-------------------:|:-----------------:|
-|         3   9       |     PROD = 27     |
-|       -30  10       |     PROD = -300   |
-|         0   9       |     PROD = 0      | 
+|         3  <br>9    |     PROD = 27     |
+|       -30 <br>10    |     PROD = -300   |
+|         0  <br>9    |     PROD = 0      | 
