@@ -1,5 +1,5 @@
-num_1 = int(input(''))
-num_2 = int(input(''))
+num_1 = int(input(""))
+num_2 = int(input(""))
 prod = num_1 * num_2
 
-print('PROD = {}'.format(prod))
+print("PROD = {}".format(prod))
